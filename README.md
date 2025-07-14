@@ -329,7 +329,7 @@ CTRL + D                    # Exit terminal or interpreter
 
 * **Linux Basics for Hackers**
 * **The Hacker Playbook**
-* YouTube: **NetworkChuck**, **IppSec**, **STÖK**, **Hackersploit** **David Bombal**
+* YouTube: **NetworkChuck**, **IppSec**, **STÖK**, **Hackersploit**, **David Bombal**
 
 ---
 
