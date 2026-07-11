@@ -1,4 +1,4 @@
-# ⚡ Ethical Hacking Starter Guide with Termux (Android Only)
+#  Ethical Hacking Starter Guide with Termux (Android Only)
 
 Welcome to your mobile hacking lab!
 This guide is your all-in-one starter pack to learn ethical hacking using only **Termux on Android** — no PC needed.
