@@ -3,17 +3,17 @@
 Welcome to your mobile hacking lab!
 This guide is your all-in-one starter pack to learn ethical hacking using only **Termux on Android** — no PC needed.
 
-> 📌 **For education only. Don't hack systems you don't own or have permission to test.**
+> **For education only. Don't hack systems you don't own or have permission to test.**
 
 ---
 
-## 🤔 Before We Begin: What Are Termux, Repos, and Packages?
+##  Before We Begin: What Are Termux, Repos, and Packages?
 
-### 📱 What is Termux?
+###  What is Termux?
 
 **Termux** is a free terminal emulator app for Android. It gives you a Linux command-line environment where you can run hacking tools, write code, and learn cybersecurity — all from your phone.
 
-### 📦 What is a Package?
+###  What is a Package?
 
 A **package** is a bundle of code that adds a new feature or tool. For example:
 
@@ -22,7 +22,7 @@ A **package** is a bundle of code that adds a new feature or tool. For example:
 
 You install packages in Termux to add functionality.
 
-### 🧃 What is a Repository (Repo)?
+###  What is a Repository (Repo)?
 
 A **repository** is a collection of packages stored online. When you install a tool, Termux checks its repositories for the latest version of that tool.
 
@@ -31,9 +31,9 @@ A **repository** is a collection of packages stored online. When you install a t
 
 ---
 
-## 📲 Installing Termux
+##  Installing Termux
 
-1. 📥 Download **Termux** from the **Google Play Store**:
+1.  Download **Termux** from the **Google Play Store**:
    [https://play.google.com/store/apps/details?id=com.termux](https://play.google.com/store/apps/details?id=com.termux)
 2. Open it and run:
 
@@ -45,7 +45,7 @@ A **repository** is a collection of packages stored online. When you install a t
 
 ---
 
-## 🧠 What You'll Learn
+##  What You'll Learn
 
 * Linux command basics
 * File management in Termux
@@ -55,9 +55,9 @@ A **repository** is a collection of packages stored online. When you install a t
 
 ---
 
-## 💻 100+ Basic Termux Commands (Cheat Sheet)
+##  100+ Basic Termux Commands (Cheat Sheet)
 
-### 📁 File & Directory Commands
+###  File & Directory Commands
 
 ```bash
 pwd                # Show current directory
@@ -115,7 +115,7 @@ cat c.txt          # Show file content
 clear              # Clear terminal
 ```
 
-### ⚙️ System & Package Management
+###  System & Package Management
 
 ```bash
 pkg update              # Refresh list of available packages
@@ -149,7 +149,7 @@ apt install [package]   # Alternate package installer
 termux-info             # Show Termux system/device info
 ```
 
-### 🌐 Network & Internet Tools
+###  Network & Internet Tools
 
 ```bash
 ifconfig                 # Show network interfaces and IPs
@@ -187,7 +187,7 @@ wget https://example.com # Download file from URL
 nmap 127.0.0.1           # Scan local system for open ports
 ```
 
-### 🔐 Ethical Hacking Tools (Install These)
+###  Ethical Hacking Tools (Install These)
 
 ```bash
 pkg install git         # Download & manage code from GitHub
@@ -221,7 +221,7 @@ pkg install openssh     # Secure shell access
 pkg install netcat      # TCP/IP networking tool
 ```
 
-### 🐍 Python & Bash Basics
+###  Python & Bash Basics
 
 ```bash
 python3                 # Start Python interpreter
@@ -247,7 +247,7 @@ nano script.sh          # Edit script in terminal editor
 bash script.sh          # Execute script using bash
 ```
 
-### 📂 Useful Termux Directories
+### Useful Termux Directories
 
 ```bash
 cd ~                            # Go to Termux home directory
@@ -265,7 +265,7 @@ cd ~/downloads                  # Termux downloads directory
 ls /data/data/com.termux/       # View Termux internal data files
 ```
 
-### 🛠 System Utilities
+### System Utilities
 
 ```bash
 top                      # View real-time running processes
@@ -299,7 +299,7 @@ uptime                  # Show system uptime
 uname -a                # Show system kernel and OS info
 ```
 
-### 💡 Tips & Tricks
+### Tips & Tricks
 
 ```bash
 !!                          # Repeat last command
@@ -325,7 +325,7 @@ CTRL + C                    # Stop a running command
 CTRL + D                    # Exit terminal or interpreter
 ```
 
-## 📘 Recommended Reading & Channels
+##  Recommended Reading & Channels
 
 * **Linux Basics for Hackers**
 * **The Hacker Playbook**
@@ -333,10 +333,8 @@ CTRL + D                    # Exit terminal or interpreter
 
 ---
 
-## 🛡️ Stay Legal
+## Stay Legal
 
 * Only hack with permission.
 * Practice on test machines or online labs.
 * Document everything. Skills matter more than shortcuts.
-
-**👨‍💻 Happy Hacking — From Your Pocket Terminal.**
