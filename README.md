@@ -107,10 +107,11 @@ For safe security practice, use legal training platforms, capture-the-flag chall
 - Do not scan, attack, or access systems that are not yours.
 - Do not use password attacks or exploitation tools against real targets.
 - Use local test machines and legal learning platforms.
+- I do not condone to any of your legal issues
 
 ## Contributing
 
-Suggestions and beginner-friendly improvements are welcome. Open an issue or pull request with a clear explanation of your change.
+Suggestions and beginner friendly improvements are welcome. Open an issue or pull request with a clear explanation of your change.
 
 ## License
 
